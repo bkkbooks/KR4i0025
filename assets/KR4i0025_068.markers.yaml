@@ -40,6 +40,7 @@ markers:
   - {type: line-break, offset: 21, content: '', id: KR4i0025_SBCK_068-1a05}
   - {type: indent, offset: 21, content: 　　　, id: KR4i0025_krp_068-bkkind10}
   - {type: punctuation, offset: 24, content: (, id: KR4i0025_krp_068-bkkpn1}
+  - {type: voice, offset: 24, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 28, content: ), id: KR4i0025_krp_068-bkkpn2}
   - {type: 'kr:newline', offset: 28, content: '
 
@@ -190,6 +191,7 @@ markers:
   - {type: substitution, offset: 479, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 484, content: (, id: KR4i0025_krp_068-bkkpn3}
   - {type: variant, offset: 484, length: 0, content: '', WYG: 文圭賀池陽太守}
+  - {type: voice, offset: 484, length: 24, name: note, id: n2}
   - {type: punctuation, offset: 491, content: /, id: KR4i0025_krp_068-bkkpn4}
   - {type: variant, offset: 491, length: 7, content: 文圭賀池陽太守, WYG: 誇漢将築頭}
   - {type: punctuation, offset: 498, content: ), id: KR4i0025_krp_068-bkkpn5}
@@ -279,6 +281,7 @@ markers:
   - {type: page-break, offset: 710, content: '', id: KR4i0025_WYG_067-3b, image: WYG1479/WYG1479-0949d.png}
   - {type: punctuation, offset: 711, content: (, id: KR4i0025_krp_068-bkkpn9}
   - {type: variant, offset: 711, length: 12, content: 主犯切馬首飾文圭詩中錂字, WYG: ''}
+  - {type: voice, offset: 711, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 717, content: /, id: KR4i0025_krp_068-bkkpn10}
   - {type: punctuation, offset: 723, content: ), id: KR4i0025_krp_068-bkkpn11}
   - {type: 'kr:newline', offset: 723, content: '
@@ -399,6 +402,7 @@ markers:
   - {type: substitution, offset: 1062, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16985}}
   - {type: punctuation, offset: 1069, content: (, id: KR4i0025_krp_068-bkkpn12}
   - {type: variant, offset: 1069, length: 0, content: '', WYG: 細}
+  - {type: voice, offset: 1069, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1070, content: /, id: KR4i0025_krp_068-bkkpn13}
   - {type: variant, offset: 1070, length: 1, content: 細, WYG: ''}
   - {type: punctuation, offset: 1071, content: ), id: KR4i0025_krp_068-bkkpn14}
@@ -763,6 +767,7 @@ markers:
   - {type: line-break, offset: 2037, content: '', id: KR4i0025_SBCK_068-7a02}
   - {type: punctuation, offset: 2053, content: (, id: KR4i0025_krp_068-bkkpn15}
   - {type: variant, offset: 2053, length: 0, content: '', WYG: 阿對是}
+  - {type: voice, offset: 2053, length: 17, name: note, id: n5}
   - {type: punctuation, offset: 2056, content: /, id: KR4i0025_krp_068-bkkpn16}
   - {type: variant, offset: 2056, length: 8, content: 阿對是泉至今尚在, WYG: ''}
   - {type: punctuation, offset: 2059, content: ), id: KR4i0025_krp_068-bkkpn17}
@@ -1301,4 +1306,4 @@ markers:
   - {type: variant, offset: 3543, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻}
   - {type: page-break, offset: 3543, content: '', id: KR4i0025_WYG_068-1a, image: WYG1479/WYG1479-0956a.png}
   back: []
-hash: sha256:0db3503bcbf1d883c4c8b3563ce205a8790aeada78593d17486e07e8455c01b1
+hash: sha256:0f28d3ac9dee1fb38f83e01cf8d7ff90e2d3111b78f5ba7f85497ae23e90470e

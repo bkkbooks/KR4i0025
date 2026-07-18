@@ -1542,6 +1542,7 @@ markers:
   - {type: substitution, offset: 4299, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: punctuation, offset: 4301, content: (, id: KR4i0025_krp_004-bkkpn1}
   - {type: variant, offset: 4301, length: 0, content: '', WYG: 出譚}
+  - {type: voice, offset: 4301, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 4303, content: /, id: KR4i0025_krp_004-bkkpn2}
   - {type: variant, offset: 4303, length: 2, content: 出譚, WYG: ''}
   - {type: substitution, offset: 4304, original: 譚, replacement: 談, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20152}}
@@ -1735,6 +1736,7 @@ markers:
   - {type: line-break, offset: 4818, content: '', id: KR4i0025_SBCK_004-15b04}
   - {type: punctuation, offset: 4824, content: (, id: KR4i0025_krp_004-bkkpn4}
   - {type: variant, offset: 4824, length: 4, content: 疑以傳疑, WYG: ''}
+  - {type: voice, offset: 4824, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 4828, content: /, id: KR4i0025_krp_004-bkkpn5}
   - {type: punctuation, offset: 4833, content: ), id: KR4i0025_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 4833, content: '
@@ -1926,6 +1928,7 @@ markers:
   - {type: variant, offset: 5379, length: 1, content: 象, WYG: 氣}
   - {type: punctuation, offset: 5390, content: (, id: KR4i0025_krp_004-bkkpn7}
   - {type: variant, offset: 5390, length: 0, content: '', WYG: 仗}
+  - {type: voice, offset: 5390, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 5391, content: /, id: KR4i0025_krp_004-bkkpn8}
   - {type: variant, offset: 5391, length: 1, content: 伏, WYG: ''}
   - {type: punctuation, offset: 5392, content: ), id: KR4i0025_krp_004-bkkpn9}
@@ -2179,6 +2182,7 @@ markers:
   - {type: line-break, offset: 6127, content: '', id: KR4i0025_SBCK_004-19a10}
   - {type: punctuation, offset: 6128, content: (, id: KR4i0025_krp_004-bkkpn10}
   - {type: variant, offset: 6128, length: 3, content: 以傳疑, WYG: ''}
+  - {type: voice, offset: 6128, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 6131, content: /, id: KR4i0025_krp_004-bkkpn11}
   - {type: variant, offset: 6134, length: 0, content: '', WYG: 疑以傳}
   - {type: punctuation, offset: 6135, content: ), id: KR4i0025_krp_004-bkkpn12}
@@ -2358,6 +2362,7 @@ markers:
   - {type: line-break, offset: 6603, content: '', id: KR4i0025_SBCK_004-20b09}
   - {type: punctuation, offset: 6621, content: (, id: KR4i0025_krp_004-bkkpn13}
   - {type: variant, offset: 6621, length: 0, content: '', WYG: 不知}
+  - {type: voice, offset: 6621, length: 10, name: note, id: n5}
   - {type: punctuation, offset: 6623, content: /, id: KR4i0025_krp_004-bkkpn14}
   - {type: variant, offset: 6623, length: 2, content: 不知, WYG: 之名今}
   - {type: punctuation, offset: 6625, content: ), id: KR4i0025_krp_004-bkkpn15}
@@ -2604,4 +2609,4 @@ markers:
   - {type: variant, offset: 7291, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻五宋計敏夫撰蕭徳言顔師古杜淹}
   - {type: page-break, offset: 7291, content: '', id: KR4i0025_WYG_005-1a, image: WYG1479/WYG1479-0317c.png}
   back: []
-hash: sha256:85806cdcc4546cceb999fffa1dc2a78545428d4d0b4f492cff5c8d0edf569a3d
+hash: sha256:aae13f2bfe80d4c98dc281322a601a00814591dc39cd06d1d3e2b2896d89f7fa

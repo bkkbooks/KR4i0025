@@ -1180,6 +1180,7 @@ markers:
   - {type: page-break, offset: 2865, content: '', id: KR4i0025_WYG_076-12b, image: WYG1479/WYG1479-1019b.png}
   - {type: punctuation, offset: 2870, content: (, id: KR4i0025_krp_077-bkkpn1}
   - {type: variant, offset: 2870, length: 0, content: '', WYG: 此一節論浮屠能}
+  - {type: voice, offset: 2870, length: 14, name: note, id: n1}
   - {type: substitution, offset: 2875, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 2877, content: /, id: KR4i0025_krp_077-bkkpn2}
   - {type: variant, offset: 2877, length: 7, content: 此一節論浮屠能, WYG: ''}
@@ -1196,4 +1197,4 @@ markers:
   - {type: variant, offset: 2893, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻}
   - {type: page-break, offset: 2893, content: '', id: KR4i0025_WYG_077-1a, image: WYG1479/WYG1479-1019c.png}
   back: []
-hash: sha256:40b84b06ec1627e37802b4d9ecb22c1995b12fffdf1f84c98b3bbb28aac9db88
+hash: sha256:8ff1b6911f4462aed638687cc1ab1b780488b2c791aee997491ab177f3d82a89

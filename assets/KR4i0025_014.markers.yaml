@@ -156,6 +156,7 @@ markers:
   - {type: substitution, offset: 272, original: 㡬, replacement: 幾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19434}}
   - {type: punctuation, offset: 274, content: (, id: KR4i0025_krp_014-bkkpn1}
   - {type: variant, offset: 274, length: 0, content: '', WYG: 已上四首}
+  - {type: voice, offset: 274, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 278, content: /, id: KR4i0025_krp_014-bkkpn2}
   - {type: variant, offset: 278, length: 4, content: 已上四首, WYG: ''}
   - {type: punctuation, offset: 282, content: ), id: KR4i0025_krp_014-bkkpn3}
@@ -482,6 +483,7 @@ markers:
   - {type: line-break, offset: 1173, content: '', id: KR4i0025_SBCK_014-4b02}
   - {type: punctuation, offset: 1179, content: (, id: KR4i0025_krp_014-bkkpn4}
   - {type: variant, offset: 1179, length: 2, content: 上碑, WYG: ''}
+  - {type: voice, offset: 1179, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1181, content: /, id: KR4i0025_krp_014-bkkpn5}
   - {type: punctuation, offset: 1183, content: ), id: KR4i0025_krp_014-bkkpn6}
   - {type: variant, offset: 1183, length: 0, content: '', WYG: 土碑}
@@ -682,6 +684,7 @@ markers:
   - {type: line-break, offset: 1669, content: '', id: KR4i0025_SBCK_014-6a01}
   - {type: punctuation, offset: 1672, content: (, id: KR4i0025_krp_014-bkkpn7}
   - {type: variant, offset: 1672, length: 8, content: 事顔氏之心也擬焉, WYG: ''}
+  - {type: voice, offset: 1672, length: 17, name: note, id: n3}
   - {type: punctuation, offset: 1680, content: /, id: KR4i0025_krp_014-bkkpn8}
   - {type: punctuation, offset: 1689, content: ), id: KR4i0025_krp_014-bkkpn9}
   - {type: 'kr:newline', offset: 1689, content: '
@@ -1493,6 +1496,7 @@ markers:
   - {type: substitution, offset: 3796, original: 悦, replacement: 悅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20774}}
   - {type: punctuation, offset: 3814, content: (, id: KR4i0025_krp_014-bkkpn10}
   - {type: variant, offset: 3814, length: 0, content: '', WYG: 中}
+  - {type: voice, offset: 3814, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3815, content: /, id: KR4i0025_krp_014-bkkpn11}
   - {type: variant, offset: 3815, length: 1, content: 中, WYG: ''}
   - {type: punctuation, offset: 3816, content: ), id: KR4i0025_krp_014-bkkpn12}
@@ -2548,6 +2552,7 @@ markers:
   - {type: line-break, offset: 6460, content: '', id: KR4i0025_SBCK_014-20a06}
   - {type: punctuation, offset: 6465, content: (, id: KR4i0025_krp_014-bkkpn13}
   - {type: variant, offset: 6465, length: 0, content: '', WYG: 韋祭酒嗣立張左}
+  - {type: voice, offset: 6465, length: 14, name: note, id: n5}
   - {type: substitution, offset: 6468, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
   - {type: punctuation, offset: 6472, content: /, id: KR4i0025_krp_014-bkkpn14}
   - {type: variant, offset: 6472, length: 8, content: 韋祭酒嗣立張左㤗, WYG: 泰}
@@ -2915,4 +2920,4 @@ markers:
   - {type: variant, offset: 7462, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻十五宋計敏夫撰王灣魏知古許景先姚崇姜皎姜睎王岳靈楊顔鄭繇張諤趙仁奬張暈金昌緒蘇晉張九齡崔國輔}
   - {type: page-break, offset: 7462, content: '', id: KR4i0025_WYG_015-1a, image: WYG1479/WYG1479-0421c.png}
   back: []
-hash: sha256:5255dcf84f65fd5f37051b75aa6d75db037766cdfa2009b4ff44bfdac7694ccf
+hash: sha256:723a1f785754373cb0162565fef0f3936339bf302e6a6c892dac364569173e81

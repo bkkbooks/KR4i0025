@@ -110,6 +110,7 @@ markers:
   - {type: page-break, offset: 192, content: '', id: KR4i0025_WYG_072-2a, image: WYG1479/WYG1479-0988c.png}
   - {type: punctuation, offset: 196, content: (, id: KR4i0025_krp_073-bkkpn1}
   - {type: variant, offset: 196, length: 7, content: 姚合取用極元集, WYG: ''}
+  - {type: voice, offset: 196, length: 15, name: note, id: n1}
   - {type: punctuation, offset: 203, content: /, id: KR4i0025_krp_073-bkkpn2}
   - {type: punctuation, offset: 211, content: ), id: KR4i0025_krp_073-bkkpn3}
   - {type: 'kr:newline', offset: 211, content: '
@@ -374,6 +375,7 @@ markers:
   - {type: substitution, offset: 825, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: punctuation, offset: 837, content: (, id: KR4i0025_krp_073-bkkpn4}
   - {type: variant, offset: 837, length: 0, content: '', WYG: 眞}
+  - {type: voice, offset: 837, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 838, content: /, id: KR4i0025_krp_073-bkkpn5}
   - {type: variant, offset: 838, length: 1, content: 眞, WYG: ''}
   - {type: substitution, offset: 838, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
@@ -974,6 +976,7 @@ markers:
   - {type: line-break, offset: 2529, content: '', id: KR4i0025_SBCK_073-8b10}
   - {type: punctuation, offset: 2538, content: (, id: KR4i0025_krp_073-bkkpn7}
   - {type: variant, offset: 2538, length: 6, content: 合取爲極玄集, WYG: ''}
+  - {type: voice, offset: 2538, length: 13, name: note, id: n3}
   - {type: substitution, offset: 2540, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 2542, length: 1, content: 玄, SBCK: 􅀇}
   - {type: punctuation, offset: 2544, content: /, id: KR4i0025_krp_073-bkkpn8}
@@ -1096,4 +1099,4 @@ markers:
   - {type: variant, offset: 2847, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻七十四宋計敏夫撰}
   - {type: page-break, offset: 2847, content: '', id: KR4i0025_WYG_073-1a, image: WYG1479/WYG1479-0994a.png}
   back: []
-hash: sha256:7ffd49ca4956919ae8e37ae64b85380a9a233244291b10b19aa4524143949e67
+hash: sha256:922d6bf7d8c7ba3263c5c2e1af504df13e001920e4f29e0b3cd0194b34c2c8fa

@@ -352,6 +352,7 @@ markers:
   - {type: page-break, offset: 857, content: '', id: KR4i0025_WYG_005-4b, image: WYG1479/WYG1479-0319b.png}
   - {type: punctuation, offset: 863, content: (, id: KR4i0025_krp_005-bkkpn1}
   - {type: variant, offset: 863, length: 0, content: '', WYG: 太子後謚}
+  - {type: voice, offset: 863, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 867, content: /, id: KR4i0025_krp_005-bkkpn2}
   - {type: variant, offset: 867, length: 4, content: 太子後謚, WYG: ''}
   - {type: substitution, offset: 870, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
@@ -668,6 +669,7 @@ markers:
   - {type: indent, offset: 1707, content: 　　, id: KR4i0025_krp_005-bkkind30}
   - {type: punctuation, offset: 1708, content: (, id: KR4i0025_krp_005-bkkpn4}
   - {type: variant, offset: 1708, length: 4, content: 御諱孝宗, WYG: 眘}
+  - {type: voice, offset: 1708, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1710, content: /, id: KR4i0025_krp_005-bkkpn5}
   - {type: punctuation, offset: 1712, content: ), id: KR4i0025_krp_005-bkkpn6}
   - {type: 'kr:newline', offset: 1713, content: '
@@ -697,6 +699,7 @@ markers:
   - {type: page-break, offset: 1760, content: '', id: KR4i0025_WYG_005-8a, image: WYG1479/WYG1479-0321a.png}
   - {type: punctuation, offset: 1762, content: (, id: KR4i0025_krp_005-bkkpn7}
   - {type: variant, offset: 1762, length: 3, content: 諱孝宗, WYG: 眘}
+  - {type: voice, offset: 1762, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 1763, content: /, id: KR4i0025_krp_005-bkkpn8}
   - {type: punctuation, offset: 1765, content: ), id: KR4i0025_krp_005-bkkpn9}
   - {type: 'kr:newline', offset: 1781, content: '
@@ -1046,6 +1049,7 @@ markers:
   - {type: line-break, offset: 2676, content: '', id: KR4i0025_SBCK_005-9b05}
   - {type: punctuation, offset: 2681, content: (, id: KR4i0025_krp_005-bkkpn10}
   - {type: variant, offset: 2681, length: 0, content: '', WYG: 本名}
+  - {type: voice, offset: 2681, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 2683, content: /, id: KR4i0025_krp_005-bkkpn11}
   - {type: variant, offset: 2683, length: 2, content: 本名, WYG: ''}
   - {type: punctuation, offset: 2685, content: ), id: KR4i0025_krp_005-bkkpn12}
@@ -1111,6 +1115,7 @@ markers:
   - {type: line-break, offset: 2839, content: '', id: KR4i0025_SBCK_005-10a05}
   - {type: punctuation, offset: 2843, content: (, id: KR4i0025_krp_005-bkkpn13}
   - {type: variant, offset: 2843, length: 0, content: '', WYG: 劉生不知何代人齊}
+  - {type: voice, offset: 2843, length: 16, name: note, id: n5}
   - {type: punctuation, offset: 2851, content: /, id: KR4i0025_krp_005-bkkpn14}
   - {type: variant, offset: 2851, length: 8, content: 劉生不知何代人齊, WYG: ''}
   - {type: punctuation, offset: 2859, content: ), id: KR4i0025_krp_005-bkkpn15}
@@ -1223,4 +1228,4 @@ markers:
   - {type: variant, offset: 3046, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻六宋計敏夫撰上官儀郭正一喬知之喬侃}
   - {type: page-break, offset: 3046, content: '', id: KR4i0025_WYG_006-1a, image: WYG1479/WYG1479-0324a.png}
   back: []
-hash: sha256:94ead010625dc0c28afca39a817249ab7c5d22d63d799d4dd320009cf02ef44c
+hash: sha256:bf9e04a2f2c71376dcedbaec6b150f6217d717f4b2d8d280004e062a3310d1da

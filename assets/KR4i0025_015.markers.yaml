@@ -1278,6 +1278,7 @@ markers:
   - {type: punctuation, offset: 3354, content: (, id: KR4i0025_krp_015-bkkpn1}
   - {type: variant, offset: 3354, length: 4, content: 爲唐類詩, WYG: ''}
   - {type: substitution, offset: 3354, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: voice, offset: 3354, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 3358, content: /, id: KR4i0025_krp_015-bkkpn2}
   - {type: variant, offset: 3362, length: 0, content: '', WYG: 詩為唐類}
   - {type: punctuation, offset: 3363, content: ), id: KR4i0025_krp_015-bkkpn3}
@@ -1550,6 +1551,7 @@ markers:
   - {type: page-break, offset: 4084, content: '', id: KR4i0025_WYG_015-16a, image: WYG1479/WYG1479-0429a.png}
   - {type: punctuation, offset: 4085, content: (, id: KR4i0025_krp_015-bkkpn4}
   - {type: variant, offset: 4085, length: 0, content: '', WYG: 段成式云桂花三月生黄而不}
+  - {type: voice, offset: 4085, length: 23, name: note, id: n2}
   - {type: punctuation, offset: 4096, content: /, id: KR4i0025_krp_015-bkkpn5}
   - {type: variant, offset: 4096, length: 12, content: 叚成式云桂花三月生黄而不, WYG: ''}
   - {type: substitution, offset: 4096, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17324}}
@@ -1756,6 +1758,7 @@ markers:
   - {type: line-break, offset: 4693, content: '', id: KR4i0025_SBCK_015-14b08}
   - {type: punctuation, offset: 4699, content: (, id: KR4i0025_krp_015-bkkpn7}
   - {type: variant, offset: 4699, length: 14, content: 書郎玄宗在東宮舉天下文章之士, WYG: ''}
+  - {type: voice, offset: 4699, length: 38, name: note, id: n3}
   - {type: punctuation, offset: 4713, content: /, id: KR4i0025_krp_015-bkkpn8}
   - {type: variant, offset: 4726, length: 6, content: 挍齡對䇿高第, WYG: 校書郎明皇在東宮舉天下文章之士}
   - {type: punctuation, offset: 4727, content: ), id: KR4i0025_krp_015-bkkpn9}
@@ -1787,6 +1790,7 @@ markers:
   - {type: line-break, offset: 4772, content: '', id: KR4i0025_SBCK_015-15a01}
   - {type: punctuation, offset: 4777, content: (, id: KR4i0025_krp_015-bkkpn13}
   - {type: variant, offset: 4777, length: 0, content: '', WYG: 侍中冠加貂蝉九齡為相以文雅為上}
+  - {type: voice, offset: 4777, length: 32, name: note, id: n4}
   - {type: punctuation, offset: 4792, content: /, id: KR4i0025_krp_015-bkkpn14}
   - {type: variant, offset: 4792, length: 15, content: 侍中冠加貂蝉九齡為相以文雅為上, WYG: 遂}
   - {type: substitution, offset: 4797, original: 蝉, replacement: 蟬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17683}}
@@ -1807,6 +1811,7 @@ markers:
   - {type: line-break, offset: 4828, content: '', id: KR4i0025_SBCK_015-15a03}
   - {type: punctuation, offset: 4829, content: (, id: KR4i0025_krp_015-bkkpn19}
   - {type: variant, offset: 4829, length: 0, content: '', WYG: 初九齡為相薦長安尉周安周子諒為監察御史}
+  - {type: voice, offset: 4829, length: 60, name: note, id: n5}
   - {type: substitution, offset: 4847, original: 决, replacement: 決, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16386}}
   - {type: punctuation, offset: 4848, content: /, id: KR4i0025_krp_015-bkkpn20}
   - {type: variant, offset: 4848, length: 30, content: 初九齡為相薦長安尉周安周子諒為監察御史荆州大都督府長史者乆之, WYG: ''}
@@ -1840,6 +1845,7 @@ markers:
   - {type: line-break, offset: 4938, content: '', id: KR4i0025_SBCK_015-15a07}
   - {type: punctuation, offset: 4939, content: (, id: KR4i0025_krp_015-bkkpn25}
   - {type: variant, offset: 4939, length: 0, content: '', WYG: 九齡善屬文}
+  - {type: voice, offset: 4939, length: 10, name: note, id: n6}
   - {type: variant, offset: 4943, length: 6, content: 卷九齡善属文, WYG: 巻}
   - {type: punctuation, offset: 4944, content: /, id: KR4i0025_krp_015-bkkpn26}
   - {type: substitution, offset: 4947, original: 属, replacement: 屬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17536}}
@@ -2152,6 +2158,7 @@ markers:
   - {type: line-break, offset: 5850, content: '', id: KR4i0025_SBCK_015-17b09}
   - {type: punctuation, offset: 5863, content: (, id: KR4i0025_krp_015-bkkpn28}
   - {type: variant, offset: 5863, length: 0, content: '', WYG: 員}
+  - {type: voice, offset: 5863, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 5864, content: /, id: KR4i0025_krp_015-bkkpn29}
   - {type: variant, offset: 5864, length: 1, content: 員, WYG: ''}
   - {type: punctuation, offset: 5865, content: ), id: KR4i0025_krp_015-bkkpn30}
@@ -2254,4 +2261,4 @@ markers:
   - {type: variant, offset: 6091, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻十六宋計敏夫撰王維王縉裴廸崔興宗}
   - {type: page-break, offset: 6091, content: '', id: KR4i0025_WYG_016-1a, image: WYG1479/WYG1479-0433a.png}
   back: []
-hash: sha256:aa2dd715133968b04a75b72702a09109751b0c5892a6d474b7a3c8540b96beeb
+hash: sha256:4894d00481127fb2e84f0d73ef833fe16e5559d5c752bdc04a29fe098f918caf

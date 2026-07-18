@@ -59,6 +59,7 @@ markers:
   - {type: substitution, offset: 58, original: 隣, replacement: 鄰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16534}}
   - {type: indent, offset: 59, content: 　, id: KR4i0025_krp_007-bkkind22}
   - {type: punctuation, offset: 61, content: (, id: KR4i0025_krp_007-bkkpn1}
+  - {type: voice, offset: 61, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 63, content: ), id: KR4i0025_krp_007-bkkpn2}
   - {type: substitution, offset: 64, original: 烱, replacement: 炯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18140}}
   - {type: indent, offset: 65, content: 　, id: KR4i0025_krp_007-bkkind23}
@@ -1804,4 +1805,4 @@ markers:
   - {type: variant, offset: 4834, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻八宋計敏夫撰陳子昻}
   - {type: page-break, offset: 4834, content: '', id: KR4i0025_WYG_008-1a, image: WYG1479/WYG1479-0343a.png}
   back: []
-hash: sha256:8abd4198675436cdaa25530597be70774f966e404578865328c963d5c50329e6
+hash: sha256:62eb7fb77af6272d2ced406ced313bbb45473f6e44e5cfd0032848edc9720600

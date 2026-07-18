@@ -188,6 +188,7 @@ markers:
   - {type: substitution, offset: 408, original: 覇, replacement: 霸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17827}}
   - {type: punctuation, offset: 410, content: (, id: KR4i0025_krp_013-bkkpn1}
   - {type: variant, offset: 410, length: 2, content: 吏也, WYG: ''}
+  - {type: voice, offset: 410, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 412, content: /, id: KR4i0025_krp_013-bkkpn2}
   - {type: substitution, offset: 413, original: 覇, replacement: 霸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17827}}
   - {type: punctuation, offset: 415, content: ), id: KR4i0025_krp_013-bkkpn3}
@@ -379,6 +380,7 @@ markers:
   - {type: line-break, offset: 870, content: '', id: KR4i0025_SBCK_013-3b06}
   - {type: punctuation, offset: 870, content: (, id: KR4i0025_krp_013-bkkpn4}
   - {type: variant, offset: 870, length: 0, content: '', WYG: 或云之問害希夷而以洛陽之篇}
+  - {type: voice, offset: 870, length: 26, name: note, id: n2}
   - {type: punctuation, offset: 883, content: /, id: KR4i0025_krp_013-bkkpn5}
   - {type: variant, offset: 883, length: 13, content: 或云之問害希夷而以洛陽之篇, WYG: ''}
   - {type: punctuation, offset: 896, content: ), id: KR4i0025_krp_013-bkkpn6}
@@ -709,6 +711,7 @@ markers:
   - {type: line-break, offset: 1742, content: '', id: KR4i0025_SBCK_013-6a07}
   - {type: punctuation, offset: 1743, content: (, id: KR4i0025_krp_013-bkkpn7}
   - {type: variant, offset: 1743, length: 2, content: 立門, WYG: ''}
+  - {type: voice, offset: 1743, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 1745, content: /, id: KR4i0025_krp_013-bkkpn8}
   - {type: punctuation, offset: 1748, content: ), id: KR4i0025_krp_013-bkkpn9}
   - {type: 'kr:newline', offset: 1748, content: '
@@ -805,6 +808,7 @@ markers:
   - {type: line-break, offset: 1952, content: '', id: KR4i0025_SBCK_013-7a01}
   - {type: punctuation, offset: 1958, content: (, id: KR4i0025_krp_013-bkkpn10}
   - {type: variant, offset: 1958, length: 5, content: 未詳上客字, WYG: ''}
+  - {type: voice, offset: 1958, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 1960, content: /, id: KR4i0025_krp_013-bkkpn11}
   - {type: punctuation, offset: 1963, content: ), id: KR4i0025_krp_013-bkkpn12}
   - {type: 'kr:newline', offset: 1963, content: '
@@ -1254,6 +1258,7 @@ markers:
   - {type: substitution, offset: 3008, original: 庻, replacement: 庶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17347}}
   - {type: punctuation, offset: 3018, content: (, id: KR4i0025_krp_013-bkkpn13}
   - {type: variant, offset: 3018, length: 2, content: 新語, WYG: ''}
+  - {type: voice, offset: 3018, length: 5, name: note, id: n5}
   - {type: punctuation, offset: 3020, content: /, id: KR4i0025_krp_013-bkkpn14}
   - {type: punctuation, offset: 3023, content: ), id: KR4i0025_krp_013-bkkpn15}
   - {type: 'kr:newline', offset: 3023, content: '
@@ -1432,6 +1437,7 @@ markers:
   - {type: line-break, offset: 3392, content: '', id: KR4i0025_SBCK_013-11b07}
   - {type: punctuation, offset: 3393, content: (, id: KR4i0025_krp_013-bkkpn16}
   - {type: variant, offset: 3393, length: 3, content: 旡競門, WYG: ''}
+  - {type: voice, offset: 3393, length: 12, name: note, id: n6}
   - {type: punctuation, offset: 3396, content: /, id: KR4i0025_krp_013-bkkpn17}
   - {type: punctuation, offset: 3401, content: /, id: KR4i0025_krp_013-bkkpn18}
   - {type: variant, offset: 3401, length: 4, content: 未詳紅字, WYG: 无競門}
@@ -1471,6 +1477,7 @@ markers:
   - {type: line-break, offset: 3465, content: '', id: KR4i0025_SBCK_013-12a01}
   - {type: variant, offset: 3469, length: 1, content: 來, WYG: 来時為太子舍}
   - {type: punctuation, offset: 3470, content: (, id: KR4i0025_krp_013-bkkpn21}
+  - {type: voice, offset: 3470, length: 10, name: note, id: n7}
   - {type: punctuation, offset: 3475, content: /, id: KR4i0025_krp_013-bkkpn22}
   - {type: variant, offset: 3475, length: 5, content: 時為太子舎, WYG: ''}
   - {type: substitution, offset: 3479, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
@@ -1522,6 +1529,7 @@ markers:
   - {type: line-break, offset: 3571, content: '', id: KR4i0025_SBCK_013-12a09}
   - {type: punctuation, offset: 3579, content: (, id: KR4i0025_krp_013-bkkpn24}
   - {type: variant, offset: 3579, length: 0, content: '', WYG: 元忠唐}
+  - {type: voice, offset: 3579, length: 6, name: note, id: n8}
   - {type: punctuation, offset: 3582, content: /, id: KR4i0025_krp_013-bkkpn25}
   - {type: variant, offset: 3582, length: 3, content: 元忠唐, WYG: ''}
   - {type: punctuation, offset: 3585, content: ), id: KR4i0025_krp_013-bkkpn26}
@@ -1676,4 +1684,4 @@ markers:
   - {type: variant, offset: 3963, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻十四宋計敏夫撰張説宋璟王邱}
   - {type: page-break, offset: 3963, content: '', id: KR4i0025_WYG_014-1a, image: WYG1479/WYG1479-0407a.png}
   back: []
-hash: sha256:3d98192faebef36e71a55569d1acb4da0025e5e5fdbcf1ff4d36a1ebe5a888bf
+hash: sha256:cdc5b9eae4d8a1b3217ecfaa1e089f8ddee39d344b62542d3fd78f4adef8974f

@@ -346,6 +346,7 @@ markers:
       ', id: KR4i0025_krp_074-bkkkrnewl61}
   - {type: line-break, offset: 843, content: '', id: KR4i0025_SBCK_074-3b07}
   - {type: punctuation, offset: 843, content: (, id: KR4i0025_krp_074-bkkpn1}
+  - {type: voice, offset: 843, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 844, content: ), id: KR4i0025_krp_074-bkkpn2}
   - {type: substitution, offset: 846, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 852, content: '
@@ -767,6 +768,7 @@ markers:
   - {type: substitution, offset: 1968, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: punctuation, offset: 1971, content: (, id: KR4i0025_krp_074-bkkpn3}
   - {type: variant, offset: 1971, length: 1, content: 話, WYG: ''}
+  - {type: voice, offset: 1971, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 1972, content: /, id: KR4i0025_krp_074-bkkpn4}
   - {type: punctuation, offset: 1974, content: ), id: KR4i0025_krp_074-bkkpn5}
   - {type: 'kr:newline', offset: 1974, content: '
@@ -877,4 +879,4 @@ markers:
   - {type: variant, offset: 2233, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻七十五宋計敏夫撰僧虛中貫休}
   - {type: page-break, offset: 2233, content: '', id: KR4i0025_WYG_074-1a, image: WYG1479/WYG1479-0998c.png}
   back: []
-hash: sha256:ad897db719c43c62411e396f91bc73aef0811c608cbd45430ab440b62bedcccf
+hash: sha256:f67ad42c237fe1cd1851b4f2fff5b629c5dbdc11c8713b232596495a8aa7ea5e

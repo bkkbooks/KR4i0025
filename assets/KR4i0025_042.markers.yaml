@@ -638,11 +638,13 @@ markers:
   - {type: line-break, offset: 1583, content: '', id: KR4i0025_SBCK_042-6a07}
   - {type: punctuation, offset: 1597, content: (, id: KR4i0025_krp_042-bkkpn1}
   - {type: variant, offset: 1597, length: 0, content: '', WYG: 樂}
+  - {type: voice, offset: 1597, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1598, content: /, id: KR4i0025_krp_042-bkkpn2}
   - {type: variant, offset: 1598, length: 1, content: 樂, WYG: ''}
   - {type: punctuation, offset: 1599, content: ), id: KR4i0025_krp_042-bkkpn3}
   - {type: punctuation, offset: 1602, content: (, id: KR4i0025_krp_042-bkkpn4}
   - {type: variant, offset: 1602, length: 0, content: '', WYG: 劉為}
+  - {type: voice, offset: 1602, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1604, content: /, id: KR4i0025_krp_042-bkkpn5}
   - {type: variant, offset: 1604, length: 2, content: 劉為, WYG: ''}
   - {type: punctuation, offset: 1606, content: ), id: KR4i0025_krp_042-bkkpn6}
@@ -765,6 +767,7 @@ markers:
   - {type: line-break, offset: 1950, content: '', id: KR4i0025_SBCK_042-7a07}
   - {type: punctuation, offset: 1951, content: (, id: KR4i0025_krp_042-bkkpn7}
   - {type: variant, offset: 1951, length: 0, content: '', WYG: 相公乆}
+  - {type: voice, offset: 1951, length: 6, name: note, id: n3}
   - {type: page-break, offset: 1952, content: '', id: KR4i0025_WYG_041-9a, image: WYG1479/WYG1479-0706a.png}
   - {type: punctuation, offset: 1954, content: /, id: KR4i0025_krp_042-bkkpn8}
   - {type: variant, offset: 1954, length: 3, content: 相公乆, WYG: ''}
@@ -1173,4 +1176,4 @@ markers:
   - {type: variant, offset: 2990, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻四十三宋計敏夫撰竇參郎士元于良史舒元輿李諒李賀呂温呂恭段洪古何元上羊士諤馮宿柳宗元}
   - {type: page-break, offset: 2990, content: '', id: KR4i0025_WYG_042-1a, image: WYG1479/WYG1479-0709a.png}
   back: []
-hash: sha256:a65e3f5032858a1db152d1df8c4ff698f9b572096951559cd0e99dc2575bd085
+hash: sha256:983fd9698fff2d0ce264e2c4a92c7cceba8034c21b625464d4034432d63d68ce

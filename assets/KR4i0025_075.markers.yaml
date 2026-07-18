@@ -55,6 +55,7 @@ markers:
   - {type: substitution, offset: 66, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: variant, offset: 71, length: 1, content: 微, WYG: 㣲聞一}
   - {type: punctuation, offset: 72, content: (, id: KR4i0025_krp_075-bkkpn1}
+  - {type: voice, offset: 72, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 74, content: /, id: KR4i0025_krp_075-bkkpn2}
   - {type: variant, offset: 74, length: 2, content: 聞一, WYG: ''}
   - {type: punctuation, offset: 76, content: ), id: KR4i0025_krp_075-bkkpn3}
@@ -177,6 +178,7 @@ markers:
   - {type: punctuation, offset: 355, content: (, id: KR4i0025_krp_075-bkkpn4}
   - {type: variant, offset: 355, length: 1, content: 傳, SBCK: 􅀓}
   - {type: variant, offset: 355, length: 2, content: 傳疑, WYG: ''}
+  - {type: voice, offset: 355, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 357, content: /, id: KR4i0025_krp_075-bkkpn5}
   - {type: punctuation, offset: 360, content: ), id: KR4i0025_krp_075-bkkpn6}
   - {type: 'kr:newline', offset: 360, content: '
@@ -1420,4 +1422,4 @@ markers:
   - {type: variant, offset: 3800, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻}
   - {type: page-break, offset: 3800, content: '', id: KR4i0025_WYG_075-1a, image: WYG1479/WYG1479-1007a.png}
   back: []
-hash: sha256:895803fa60ffdaadcc02e6f5ba74171dba01f70c808051817763e793d5d9b9cd
+hash: sha256:c7b76e6b6c5333bcb1f3be54298db2e1f08e54a43eaa11d98a6e6cef95698dca

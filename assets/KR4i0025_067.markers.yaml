@@ -427,6 +427,7 @@ markers:
   - {type: page-break, offset: 1131, content: '', id: KR4i0025_WYG_066-5b, image: WYG1479/WYG1479-0943b.png}
   - {type: punctuation, offset: 1142, content: (, id: KR4i0025_krp_067-bkkpn1}
   - {type: variant, offset: 1142, length: 0, content: '', WYG: 江西}
+  - {type: voice, offset: 1142, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1144, content: /, id: KR4i0025_krp_067-bkkpn2}
   - {type: variant, offset: 1144, length: 2, content: 江西, WYG: ''}
   - {type: punctuation, offset: 1146, content: ), id: KR4i0025_krp_067-bkkpn3}
@@ -766,6 +767,7 @@ markers:
   - {type: page-break, offset: 2007, content: '', id: KR4i0025_WYG_066-9b, image: WYG1479/WYG1479-0945b.png}
   - {type: punctuation, offset: 2023, content: (, id: KR4i0025_krp_067-bkkpn4}
   - {type: variant, offset: 2023, length: 1, content: 闕, WYG: ''}
+  - {type: voice, offset: 2023, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2024, content: /, id: KR4i0025_krp_067-bkkpn5}
   - {type: punctuation, offset: 2026, content: ), id: KR4i0025_krp_067-bkkpn6}
   - {type: 'kr:newline', offset: 2026, content: '
@@ -841,6 +843,7 @@ markers:
   - {type: substitution, offset: 2228, original: 㸔, replacement: 看, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19959}}
   - {type: punctuation, offset: 2246, content: (, id: KR4i0025_krp_067-bkkpn7}
   - {type: variant, offset: 2246, length: 0, content: '', WYG: 楚}
+  - {type: voice, offset: 2246, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 2247, content: /, id: KR4i0025_krp_067-bkkpn8}
   - {type: variant, offset: 2247, length: 1, content: 楚, WYG: 妓}
   - {type: punctuation, offset: 2248, content: ), id: KR4i0025_krp_067-bkkpn9}
@@ -1381,4 +1384,4 @@ markers:
   - {type: variant, offset: 3721, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻}
   - {type: page-break, offset: 3721, content: '', id: KR4i0025_WYG_067-1a, image: WYG1479/WYG1479-0948c.png}
   back: []
-hash: sha256:6e0bbd31b18b0468b255af76237504468d2ddc828bb38c6a23723168d362a6ea
+hash: sha256:ee6f3517cbcfca3343df038409eb4d3ebfaf2817a5ad9086fdc03851e71b40fd

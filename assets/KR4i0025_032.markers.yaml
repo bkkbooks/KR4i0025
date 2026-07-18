@@ -48,6 +48,7 @@ markers:
   - {type: indent, offset: 38, content: 　, id: KR4i0025_krp_032-bkkind17}
   - {type: punctuation, offset: 40, content: (, id: KR4i0025_krp_032-bkkpn1}
   - {type: variant, offset: 40, length: 2, content: 八拍, WYG: ''}
+  - {type: voice, offset: 40, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 42, content: /, id: KR4i0025_krp_032-bkkpn2}
   - {type: punctuation, offset: 45, content: ), id: KR4i0025_krp_032-bkkpn3}
   - {type: 'kr:newline', offset: 45, content: '
@@ -707,6 +708,7 @@ markers:
   - {type: line-break, offset: 1853, content: '', id: KR4i0025_SBCK_032-7a03}
   - {type: punctuation, offset: 1872, content: (, id: KR4i0025_krp_032-bkkpn4}
   - {type: variant, offset: 1872, length: 0, content: '', WYG: 兟}
+  - {type: voice, offset: 1872, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1873, content: /, id: KR4i0025_krp_032-bkkpn5}
   - {type: variant, offset: 1873, length: 3, content: 兟称也, WYG: ''}
   - {type: punctuation, offset: 1874, content: ), id: KR4i0025_krp_032-bkkpn6}
@@ -1075,4 +1077,4 @@ markers:
   - {type: variant, offset: 2840, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻三十三宋計敏夫撰李吉甫}
   - {type: page-break, offset: 2840, content: '', id: KR4i0025_WYG_033-1a, image: WYG1479/WYG1479-0629c.png}
   back: []
-hash: sha256:2cd0fa409143c69e6a6b217b68679440843d1eff9b672d99f606651e34687ef1
+hash: sha256:1ad08eba5cfc6a2e77069525e81e1533ad442f35caac400b8daa787a067e3d77

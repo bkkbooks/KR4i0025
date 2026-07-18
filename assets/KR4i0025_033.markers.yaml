@@ -205,6 +205,7 @@ markers:
   - {type: line-break, offset: 540, content: '', id: KR4i0025_SBCK_033-2b06}
   - {type: punctuation, offset: 543, content: (, id: KR4i0025_krp_033-bkkpn1}
   - {type: variant, offset: 543, length: 3, content: 又元集, WYG: ''}
+  - {type: voice, offset: 543, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 546, content: /, id: KR4i0025_krp_033-bkkpn2}
   - {type: punctuation, offset: 550, content: ), id: KR4i0025_krp_033-bkkpn3}
   - {type: 'kr:newline', offset: 550, content: '
@@ -298,6 +299,7 @@ markers:
   - {type: line-break, offset: 818, content: '', id: KR4i0025_SBCK_033-3b01}
   - {type: punctuation, offset: 837, content: (, id: KR4i0025_krp_033-bkkpn4}
   - {type: variant, offset: 837, length: 0, content: '', WYG: 傷}
+  - {type: voice, offset: 837, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 838, content: /, id: KR4i0025_krp_033-bkkpn5}
   - {type: variant, offset: 838, length: 1, content: 傷, WYG: ''}
   - {type: punctuation, offset: 839, content: ), id: KR4i0025_krp_033-bkkpn6}
@@ -1014,4 +1016,4 @@ markers:
   - {type: variant, offset: 2918, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻三十四宋計敏夫撰韓愈}
   - {type: page-break, offset: 2918, content: '', id: KR4i0025_WYG_034-1a, image: WYG1479/WYG1479-0635c.png}
   back: []
-hash: sha256:de462214bac72d6c45d04001bd5c489b69290d065f7bf1677664e770a96c1d1a
+hash: sha256:e845f3bf83b13dea0f01cd8dd90d5ce79cef33bcaf54277da15172a065ce981d

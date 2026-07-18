@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4i0025_SBCK_044-1a02}
   - {type: indent, offset: 0, content: 　　　, id: KR4i0025_krp_044-bkkind1}
   - {type: punctuation, offset: 2, content: (, id: KR4i0025_krp_044-bkkpn1}
+  - {type: voice, offset: 2, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 4, content: /, id: KR4i0025_krp_044-bkkpn2}
   - {type: punctuation, offset: 7, content: ), id: KR4i0025_krp_044-bkkpn3}
   - {type: 'kr:newline', offset: 7, content: '
@@ -93,6 +94,7 @@ markers:
   - {type: line-break, offset: 195, content: '', id: KR4i0025_SBCK_044-1b06}
   - {type: page-break, offset: 196, content: '', id: KR4i0025_WYG_043-2a, image: WYG1479/WYG1479-0724a.png}
   - {type: punctuation, offset: 203, content: (, id: KR4i0025_krp_044-bkkpn4}
+  - {type: voice, offset: 203, length: 7, name: note, id: n2}
   - {type: variant, offset: 207, length: 1, content: 元, WYG: 微}
   - {type: variant, offset: 208, length: 1, content: 稹, WYG: 之}
   - {type: punctuation, offset: 210, content: ), id: KR4i0025_krp_044-bkkpn5}
@@ -1325,4 +1327,4 @@ markers:
   - {type: variant, offset: 3309, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻四十五宋計敏夫撰朱灣王良㑹}
   - {type: page-break, offset: 3309, content: '', id: KR4i0025_WYG_044-1a, image: WYG1479/WYG1479-0731a.png}
   back: []
-hash: sha256:c48972682d3f131b08b559a241cbdee0b336eeb9ddbf2f4844f586981d05b3a4
+hash: sha256:e4df6166704c7dba844939daf51b112c929cd12efb4ca3f2178139911101df4a

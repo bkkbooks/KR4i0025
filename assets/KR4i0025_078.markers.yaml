@@ -227,6 +227,7 @@ markers:
   - {type: line-break, offset: 454, content: '', id: KR4i0025_SBCK_078-2b03}
   - {type: indent, offset: 454, content: 　　, id: KR4i0025_krp_078-bkkind21}
   - {type: punctuation, offset: 456, content: (, id: KR4i0025_krp_078-bkkpn1}
+  - {type: voice, offset: 456, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 460, content: ), id: KR4i0025_krp_078-bkkpn2}
   - {type: 'kr:newline', offset: 460, content: '
 
@@ -308,6 +309,7 @@ markers:
   - {type: variant, offset: 705, length: 1, content: 弟, WYG: 第}
   - {type: punctuation, offset: 714, content: (, id: KR4i0025_krp_078-bkkpn3}
   - {type: variant, offset: 714, length: 6, content: 有詩墮李益門, WYG: ''}
+  - {type: voice, offset: 714, length: 13, name: note, id: n2}
   - {type: punctuation, offset: 720, content: /, id: KR4i0025_krp_078-bkkpn4}
   - {type: punctuation, offset: 727, content: ), id: KR4i0025_krp_078-bkkpn5}
   - {type: 'kr:newline', offset: 727, content: '
@@ -354,6 +356,7 @@ markers:
   - {type: variant, offset: 824, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 824, length: 1, content: 𥘉, WYG: 初雲溪}
   - {type: punctuation, offset: 825, content: (, id: KR4i0025_krp_078-bkkpn6}
+  - {type: voice, offset: 825, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 827, content: /, id: KR4i0025_krp_078-bkkpn7}
   - {type: variant, offset: 827, length: 2, content: 雲溪, WYG: ''}
   - {type: punctuation, offset: 829, content: ), id: KR4i0025_krp_078-bkkpn8}
@@ -392,6 +395,7 @@ markers:
   - {type: substitution, offset: 897, original: 㸔, replacement: 看, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19959}}
   - {type: punctuation, offset: 904, content: (, id: KR4i0025_krp_078-bkkpn9}
   - {type: variant, offset: 904, length: 0, content: '', WYG: 雲溪}
+  - {type: voice, offset: 904, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 906, content: /, id: KR4i0025_krp_078-bkkpn10}
   - {type: variant, offset: 906, length: 2, content: 雲溪, WYG: ''}
   - {type: punctuation, offset: 908, content: ), id: KR4i0025_krp_078-bkkpn11}
@@ -691,6 +695,7 @@ markers:
   - {type: substitution, offset: 1659, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20703}}
   - {type: punctuation, offset: 1667, content: (, id: KR4i0025_krp_078-bkkpn12}
   - {type: variant, offset: 1667, length: 0, content: '', WYG: 拂一}
+  - {type: voice, offset: 1667, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 1669, content: /, id: KR4i0025_krp_078-bkkpn13}
   - {type: variant, offset: 1669, length: 2, content: 拂一, WYG: ''}
   - {type: punctuation, offset: 1671, content: ), id: KR4i0025_krp_078-bkkpn14}
@@ -1047,4 +1052,4 @@ markers:
   - {type: variant, offset: 2595, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻}
   - {type: page-break, offset: 2595, content: '', id: KR4i0025_WYG_078-1a, image: WYG1479/WYG1479-1024c.png}
   back: []
-hash: sha256:32a29addbf8af35e6764520775116b3f31e3f1d3cf3175df1cb00278863ea6bd
+hash: sha256:7e2be49e3e0dd985a78df2c663184edc2867efa55ef360bfbf2415c882cbd092

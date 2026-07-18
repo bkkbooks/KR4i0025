@@ -290,6 +290,7 @@ markers:
   - {type: line-break, offset: 734, content: '', id: KR4i0025_SBCK_021-3a02}
   - {type: punctuation, offset: 734, content: (, id: KR4i0025_krp_021-bkkpn1}
   - {type: variant, offset: 734, length: 0, content: '', WYG: 員}
+  - {type: voice, offset: 734, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 735, content: /, id: KR4i0025_krp_021-bkkpn2}
   - {type: variant, offset: 735, length: 1, content: 員, WYG: ''}
   - {type: punctuation, offset: 736, content: ), id: KR4i0025_krp_021-bkkpn3}
@@ -390,6 +391,7 @@ markers:
   - {type: page-break, offset: 984, content: '', id: KR4i0025_WYG_021-4b, image: WYG1479/WYG1479-0481d.png}
   - {type: punctuation, offset: 986, content: (, id: KR4i0025_krp_021-bkkpn4}
   - {type: variant, offset: 986, length: 0, content: '', WYG: 員}
+  - {type: voice, offset: 986, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 987, content: /, id: KR4i0025_krp_021-bkkpn5}
   - {type: variant, offset: 987, length: 1, content: 員, WYG: ''}
   - {type: punctuation, offset: 988, content: ), id: KR4i0025_krp_021-bkkpn6}
@@ -682,6 +684,7 @@ markers:
   - {type: substitution, offset: 1821, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1825, content: (, id: KR4i0025_krp_021-bkkpn7}
   - {type: variant, offset: 1825, length: 2, content: 一篇, WYG: ''}
+  - {type: voice, offset: 1825, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 1827, content: /, id: KR4i0025_krp_021-bkkpn8}
   - {type: punctuation, offset: 1830, content: ), id: KR4i0025_krp_021-bkkpn9}
   - {type: 'kr:newline', offset: 1830, content: '
@@ -732,6 +735,7 @@ markers:
   - {type: variant, offset: 1935, length: 1, content: 深, SBCK: 􅀷}
   - {type: variant, offset: 1936, length: 6, content: 蘢竹樹深者爲, WYG: ''}
   - {type: punctuation, offset: 1937, content: (, id: KR4i0025_krp_021-bkkpn10}
+  - {type: voice, offset: 1937, length: 12, name: note, id: n4}
   - {type: variant, offset: 1938, length: 1, content: 樹, SBCK: 􅀣}
   - {type: variant, offset: 1939, length: 1, content: 深, SBCK: 􅀷}
   - {type: substitution, offset: 1941, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -788,6 +792,7 @@ markers:
   - {type: substitution, offset: 2051, original: 纔, replacement: 才, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19563}}
   - {type: punctuation, offset: 2054, content: (, id: KR4i0025_krp_021-bkkpn13}
   - {type: variant, offset: 2054, length: 0, content: '', WYG: 華與趙七}
+  - {type: voice, offset: 2054, length: 46, name: note, id: n5}
   - {type: punctuation, offset: 2058, content: /, id: KR4i0025_krp_021-bkkpn14}
   - {type: variant, offset: 2058, length: 4, content: 華與趙七, WYG: 蕭十功曺皆苦貧幇弊同年三人登科頴士故邵}
   - {type: punctuation, offset: 2062, content: ), id: KR4i0025_krp_021-bkkpn15}
@@ -808,6 +813,7 @@ markers:
   - {type: substitution, offset: 2112, original: 䧟, replacement: 陷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19765}}
   - {type: punctuation, offset: 2120, content: (, id: KR4i0025_krp_021-bkkpn19}
   - {type: variant, offset: 2120, length: 0, content: '', WYG: 郡}
+  - {type: voice, offset: 2120, length: 11, name: note, id: n6}
   - {type: punctuation, offset: 2121, content: /, id: KR4i0025_krp_021-bkkpn20}
   - {type: variant, offset: 2121, length: 1, content: 郡, WYG: 緯卿以寃横}
   - {type: punctuation, offset: 2122, content: ), id: KR4i0025_krp_021-bkkpn21}
@@ -828,6 +834,7 @@ markers:
   - {type: line-break, offset: 2146, content: '', id: KR4i0025_SBCK_021-6b07}
   - {type: punctuation, offset: 2151, content: (, id: KR4i0025_krp_021-bkkpn25}
   - {type: variant, offset: 2151, length: 0, content: '', WYG: 蕭天寳末知亂棄官往江}
+  - {type: voice, offset: 2151, length: 19, name: note, id: n7}
   - {type: punctuation, offset: 2160, content: /, id: KR4i0025_krp_021-bkkpn26}
   - {type: variant, offset: 2160, length: 10, content: 蕭天寳未知乱棄官徃江, WYG: ''}
   - {type: substitution, offset: 2162, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
@@ -841,6 +848,7 @@ markers:
   - {type: line-break, offset: 2175, content: '', id: KR4i0025_SBCK_021-6b08}
   - {type: punctuation, offset: 2180, content: (, id: KR4i0025_krp_021-bkkpn28}
   - {type: variant, offset: 2180, length: 0, content: '', WYG: 禄山䧟兩亰華}
+  - {type: voice, offset: 2180, length: 12, name: note, id: n8}
   - {type: punctuation, offset: 2186, content: /, id: KR4i0025_krp_021-bkkpn29}
   - {type: variant, offset: 2186, length: 6, content: 逆胡䧟兩京華, WYG: ''}
   - {type: substitution, offset: 2188, original: 䧟, replacement: 陷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19765}}
@@ -853,12 +861,14 @@ markers:
   - {type: line-break, offset: 2201, content: '', id: KR4i0025_SBCK_021-6b09}
   - {type: punctuation, offset: 2202, content: (, id: KR4i0025_krp_021-bkkpn31}
   - {type: variant, offset: 2202, length: 6, content: 貶泉州晋江尉, WYG: ''}
+  - {type: voice, offset: 2202, length: 13, name: note, id: n9}
   - {type: substitution, offset: 2205, original: 晋, replacement: 晉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17094}}
   - {type: punctuation, offset: 2208, content: /, id: KR4i0025_krp_021-bkkpn32}
   - {type: punctuation, offset: 2215, content: ), id: KR4i0025_krp_021-bkkpn33}
   - {type: variant, offset: 2215, length: 0, content: '', WYG: 貶泉州晉江尉}
   - {type: punctuation, offset: 2225, content: (, id: KR4i0025_krp_021-bkkpn34}
   - {type: variant, offset: 2225, length: 0, content: '', WYG: 華承}
+  - {type: voice, offset: 2225, length: 14, name: note, id: n10}
   - {type: substitution, offset: 2226, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 2227, content: /, id: KR4i0025_krp_021-bkkpn35}
   - {type: variant, offset: 2227, length: 8, content: 華承拜𥙷聞御史迁, WYG: 遷}
@@ -1016,6 +1026,7 @@ markers:
   - {type: line-break, offset: 2587, content: '', id: KR4i0025_SBCK_021-7b10}
   - {type: punctuation, offset: 2587, content: (, id: KR4i0025_krp_021-bkkpn40}
   - {type: variant, offset: 2587, length: 16, content: 在上頭遂作鳯凰䑓詩以䡋勝負恐不然, WYG: ''}
+  - {type: voice, offset: 2587, length: 32, name: note, id: n11}
   - {type: substitution, offset: 2594, original: 䑓, replacement: 臺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20173}}
   - {type: substitution, offset: 2597, original: 䡋, replacement: 軝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-10167}}
   - {type: variant, offset: 2599, length: 1, content: 負, SBCK: 􅀒}
@@ -1466,6 +1477,7 @@ markers:
   - {type: line-break, offset: 3709, content: '', id: KR4i0025_SBCK_021-11a04}
   - {type: punctuation, offset: 3719, content: (, id: KR4i0025_krp_021-bkkpn43}
   - {type: variant, offset: 3719, length: 0, content: '', WYG: 姚合取為}
+  - {type: voice, offset: 3719, length: 7, name: note, id: n12}
   - {type: punctuation, offset: 3722, content: /, id: KR4i0025_krp_021-bkkpn44}
   - {type: variant, offset: 3722, length: 4, content: 姚合取爲, WYG: ''}
   - {type: substitution, offset: 3725, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -1491,6 +1503,7 @@ markers:
   - {type: line-break, offset: 3766, content: '', id: KR4i0025_SBCK_021-11a07}
   - {type: punctuation, offset: 3772, content: (, id: KR4i0025_krp_021-bkkpn46}
   - {type: variant, offset: 3772, length: 2, content: 於此, WYG: ''}
+  - {type: voice, offset: 3772, length: 5, name: note, id: n13}
   - {type: punctuation, offset: 3774, content: /, id: KR4i0025_krp_021-bkkpn47}
   - {type: punctuation, offset: 3777, content: ), id: KR4i0025_krp_021-bkkpn48}
   - {type: 'kr:newline', offset: 3777, content: '
@@ -1583,6 +1596,7 @@ markers:
   - {type: substitution, offset: 4005, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4008, content: (, id: KR4i0025_krp_021-bkkpn49}
   - {type: variant, offset: 4008, length: 0, content: '', WYG: 員}
+  - {type: voice, offset: 4008, length: 2, name: note, id: n14}
   - {type: punctuation, offset: 4009, content: /, id: KR4i0025_krp_021-bkkpn50}
   - {type: variant, offset: 4009, length: 1, content: 員, WYG: ''}
   - {type: punctuation, offset: 4010, content: ), id: KR4i0025_krp_021-bkkpn51}
@@ -1693,4 +1707,4 @@ markers:
   - {type: variant, offset: 4282, length: 0, content: '', WYG: 欽定四庫全書唐詩紀事巻二十二宋計敏夫撰任華鄒象先賈至韋述裴耀卿}
   - {type: page-break, offset: 4282, content: '', id: KR4i0025_WYG_022-1a, image: WYG1479/WYG1479-0488a.png}
   back: []
-hash: sha256:d3935185a52ba83d0792a7ba3fd7d931b722ad77f367c6e29b9625d73079af29
+hash: sha256:f927920bdd17234e7663a2033b927443fc69aa87938084683914cd501713bbcf
